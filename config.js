@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/OktaModz'
-global.sgh = 'https://github.com/ChataOfc'
+global.sig = 'https://www.instagram.com/xyznopan'
+global.sgh = 'https://github.com/XYZBOTZ'
 global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 //mwehehe:v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '081546988821'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co.id/oktakc'
+global.pgopay = '085862754807'
+global.ppulsa = '085862754807'
+global.ppulsa2 = '085862754807'
+global.psaweria = '-'
 global.fetch = (await import('node-fetch'))
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'YaeMiko'
-global.nameown = 'Okta'
+global.nomorbot = '6283148340038'
+global.nomorown = '6285862754807'
+global.namebot = 'Tobot'
+global.nameown = 'Nopan'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta🗿!', true]
+  ['6285862754807', 'Nopan🗿!', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,8 +114,8 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 YaeMiko-MD あ⁩ 」' //Main Watermark
-global.wm2 = 'Yaee🤤'
+global.wm = '                「 Tobot-MD あ⁩ 」' //Main Watermark
+global.wm2 = 'Nopan🤤'
 global.wm3 = '⫹⫺ ʏᴀᴇᴍɪᴋᴏ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
